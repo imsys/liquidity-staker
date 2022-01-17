@@ -21,6 +21,7 @@
     "prepublishOnly": "yarn test"
   },
   "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2",
     "openzeppelin-solidity-2.3.0": "npm:openzeppelin-solidity@2.3.0"
   },
   "devDependencies": {
